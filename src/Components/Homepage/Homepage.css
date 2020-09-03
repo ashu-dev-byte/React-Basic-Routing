@@ -1,0 +1,44 @@
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LeftHomePage xxxxxxxxxxxxxxxxxxxxxxxxx */
+
+.imgBackground {
+  background-image: url("https://images.pexels.com/photos/4112236/pexels-photo-4112236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  width: 100%;
+  height: 100%;
+  filter: blur(5px);
+  background-size: cover;
+  background-position: center center;
+}
+
+.brand-logo {
+  top: 40%;
+  left: 35%;
+}
+
+.line {
+  border-left: 3px solid rgb(255, 255, 255);
+  height: 40px;
+  top: 41%;
+  left: 41.5%;
+}
+
+.brand-name {
+  color: white;
+  top: 39.3%;
+  left: 42.5%;
+}
+
+.brand-para {
+  color: white;
+  width: 50%;
+  top: 52.5%;
+  left: 19.5%;
+}
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RightHomePage xxxxxxxxxxxxxxxxxxxxxxxxx */
+.btn-fb {
+  background-color: rgb(14, 86, 240);
+  width: 15rem;
+  height: 3rem;
+  align-items: center;
+  border-radius: 9px;
+}

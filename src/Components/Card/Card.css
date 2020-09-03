@@ -1,0 +1,27 @@
+.dimensions {
+  width: 440px;
+  height: 320px;
+}
+
+.fav-btn {
+  background-color: rgb(14, 86, 240);
+  color: white;
+  width: 9rem;
+  height: 2.5rem;
+  align-items: center;
+  border-radius: 9px;
+}
+
+.rej-btn {
+  background-color: rgb(233, 234, 236);
+  color: red;
+  width: 8rem;
+  height: 2.5rem;
+  align-items: center;
+  border-radius: 9px;
+}
+
+.new-tag {
+  background-color: rgb(247, 152, 29);
+  right: 0;
+}
